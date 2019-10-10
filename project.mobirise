@@ -435,7 +435,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "ประโยชน์ของปลาแซลมอน<br>1",
                 "overlay": true,
@@ -453,7 +453,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "ประโยชน์ของปลาแซลมอน<br>2",
                 "overlay": true,
@@ -471,12 +471,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "ประโยชน์ของปลาแซลมอน<br>3",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "ช่วยในเรื่องการนอนหลับ เพราะเนื้อปลาแซลมอนอุดมไปด้วยทริปโตเฟน (Tryptophan) ซึ่งมีคุณสมบัติคล้ายๆยานอนหลับแต่เป็นของธรรมชาติล้วนๆ และไร้อันตรายแน่นอน จากงานวิจัยพบว่า ทริปโตเฟนมีฤทธิ์ทำให้ง่วง และช่วยให้หลับเร็วขึ้น",
+                "text": "ช่วยในเรื่องการนอนหลับ เพราะเนื้อปลาแซลมอนอุดมไปด้วยทริปโตเฟน (Tryptophan) <br>ซึ่งมีคุณสมบัติคล้ายๆยานอนหลับ แต่เป็นของธรรมชาติล้วนๆ และไร้อันตรายแน่นอน <br>จากงานวิจัยพบว่า ทริปโตเฟนมีฤทธิ์ทำให้ง่วง และช่วยให้หลับเร็วขึ้น",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"salmon-fish.html#slider1-l\" data-toolbar=\"-mbrBtnMove\">ถัดไป</a>"
               }
             ]
